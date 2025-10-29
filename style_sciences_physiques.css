@@ -28,14 +28,36 @@ nav ul li {
 
 nav ul li a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: none; /* supprime le soulignement */
   font-weight: bold;
 }
 
 nav ul li a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* effet au survol */
+  color: #ffffff; /* couleur au survol, tu peux changer si tu veux */
+}
+
+/* Liens dans le header */
+header a {
+  color: #ffffff;
+  text-decoration: none; /* supprime le soulignement */
+}
+
+header a:hover {
+  text-decoration: underline; /* effet au survol */
 }
 
 main {
   padding: 20px;
+}
+
+/* Optionnel : tous les liens du site sans soulignement par défaut */
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #526D82; /* couleur de survol générale */
 }
