@@ -28,9 +28,8 @@ Il est conçu pour **faciliter l’apprentissage et la consultation** grâce à 
    - Anatomie & Physiologie
      - La Cellule (en developpement)
     
-## Plusieurs catégories seront ajoutées dans les mois à venir. Chaque sujet sera présenter le vendredi, pour une publication le dimanche.
-
-   1 SUJET PAR SEMAINE
+ Plusieurs catégories seront ajoutées dans les mois à venir. Chaque sujet sera présenter le vendredi sur les réseaux, pour une publication le dimanche.
+ 1 SUJET PAR SEMAINE
 
 ## 💡 À propos
 
